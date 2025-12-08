@@ -23,8 +23,8 @@ Pastikan Anda telah menginstal **Go (Golang)** di sistem Anda.
 
 1.  **Kloning Repository**
     ```bash
-    git clone [URL_REPOSITORY_ANDA]
-    cd [NAMA_FOLDER_REPOSITORY]
+    git clone https://github.com/rizqyramdani54/Tubes_Peminjaman_Komik_GoLanguage
+    cd Peminjaman_Komik
     ```
 2.  **Menjalankan Kode**
     Aplikasi ini berjalan sebagai program Go tunggal.
