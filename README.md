@@ -47,5 +47,4 @@ Pastikan Anda telah menginstal **Go (Golang)** di sistem Anda.
 
 ## 🤝 Kontributor
 
-* [Nama Anda] - ([NIM Anda] / [Link ke Profil GitHub Anda])
-* [Nama Anggota Kelompok 7 lainnya, jika ada]
+* Muhammad Rizqy Ramdani
